@@ -2,7 +2,9 @@
 
 My name is Niels, I'm 25 years old and I live in Belgium.
 
-I'm currently working as an ML engineer @ HuggingFace, where I'm part of the Open-Source team.
+I'm currently working as an ML engineer @ [🤗  HuggingFace](https://huggingface.co/), where I'm part of the Open-Source team.
+
+I work on HuggingFace Transformers, a Python library implementing several state-of-the-art AI algorithms, all based on the original [Transformer](https://arxiv.org/abs/1706.03762) by Google.
 
 I love making AI more accessible to anyone. So far, I've contributed the following algorithms to HuggingFace Transformers:
 - TAPAS, by Google AI
