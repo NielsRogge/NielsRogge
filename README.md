@@ -9,7 +9,7 @@ I work on HuggingFace Transformers, a Python library implementing several state-
 I love making AI more accessible to anyone. So far, I've contributed the following algorithms to HuggingFace Transformers:
 - [TAPAS](https://arxiv.org/abs/2004.02349), by Google AI
 - [ViT](https://arxiv.org/abs/2010.11929), by Google AI
-- DEiT, by Facebook AI
+- [DEiT](https://arxiv.org/abs/2012.12877), by Facebook AI
 - [DETR](https://arxiv.org/abs/2005.12872), by Facebook AI
 - [BEiT](https://arxiv.org/abs/2106.08254), by Microsoft Research
 - [CANINE](https://arxiv.org/abs/2103.06874), by Google AI
