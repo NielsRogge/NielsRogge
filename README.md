@@ -7,15 +7,15 @@ I'm currently working as an ML engineer @ [🤗  HuggingFace](https://huggingfac
 I work on HuggingFace Transformers, a Python library implementing several state-of-the-art AI algorithms, all based on the original [Transformer](https://arxiv.org/abs/1706.03762) by Google.
 
 I love making AI more accessible to anyone. So far, I've contributed the following algorithms to HuggingFace Transformers:
-- TAPAS, by Google AI
-- ViT, by Google AI
+- [TAPAS](https://arxiv.org/abs/2004.02349), by Google AI
+- [ViT](https://arxiv.org/abs/2010.11929), by Google AI
 - DEiT, by Facebook AI
-- DETR, by Facebook AI
-- BEiT, by Microsoft Research
-- CANINE, by Google AI
-- LUKE, by Studio Ousia
-- LayoutLMv2 and LayoutXLM, by Microsoft Research
-- TrOCR, by Microsoft Research
+- [DETR](https://arxiv.org/abs/2005.12872), by Facebook AI
+- [BEiT](https://arxiv.org/abs/2106.08254), by Microsoft Research
+- [CANINE](https://arxiv.org/abs/2103.06874), by Google AI
+- [LUKE](https://arxiv.org/abs/2010.01057), by Studio Ousia
+- [LayoutLMv2](https://arxiv.org/abs/2012.14740) and [LayoutXLM](https://arxiv.org/abs/2104.08836), by Microsoft Research
+- [TrOCR](https://arxiv.org/abs/2109.10282), by Microsoft Research
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
