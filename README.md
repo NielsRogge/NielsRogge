@@ -17,6 +17,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [LayoutLMv2](https://arxiv.org/abs/2012.14740) and [LayoutXLM](https://arxiv.org/abs/2104.08836), by Microsoft Research
 - [TrOCR](https://arxiv.org/abs/2109.10282), by Microsoft Research
 - [SegFormer](https://arxiv.org/abs/2105.15203), by NVIDIA
+- [ImageGPT](https://openai.com/blog/image-gpt/), by OpenAI
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
