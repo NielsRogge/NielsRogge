@@ -21,6 +21,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [ImageGPT](https://openai.com/blog/image-gpt/), by OpenAI
 - [Perceiver/Perceiver IO](https://arxiv.org/abs/2107.14795), by Deepmind
 - [MAE](https://arxiv.org/abs/2111.06377), by Facebook AI
+- [ViLT](https://arxiv.org/abs/2102.03334), by NAVER AI Lab
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
