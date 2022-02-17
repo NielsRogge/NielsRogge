@@ -22,6 +22,14 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [Perceiver/Perceiver IO](https://arxiv.org/abs/2107.14795), by Deepmind
 - [MAE](https://arxiv.org/abs/2111.06377), by Facebook AI
 - [ViLT](https://arxiv.org/abs/2102.03334), by NAVER AI Lab
+- [ConvNeXT](https://arxiv.org/abs/2201.03545), by Facebook AI
+
+Besides that, I help others add models to the library, including:
+- [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
+- [mLUKE](https://arxiv.org/abs/2110.08151), by Studio Ousia
+- [Nyströmformer](https://arxiv.org/abs/2102.03902), by University of Wisconsin-Madison
+- [YOSO](https://arxiv.org/abs/2111.09714), by University of Wisconsin-Madison
+- [PoolFormer](https://arxiv.org/abs/2111.11418), by Sea AI Lab
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
