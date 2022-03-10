@@ -23,6 +23,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [MAE](https://arxiv.org/abs/2111.06377), by Facebook AI
 - [ViLT](https://arxiv.org/abs/2102.03334), by NAVER AI Lab
 - [ConvNeXT](https://arxiv.org/abs/2201.03545), by Facebook AI
+- [DiT](hhttps://arxiv.org/abs/2203.02378), by Microsoft Research
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
