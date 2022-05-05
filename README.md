@@ -26,6 +26,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [DiT](https://arxiv.org/abs/2203.02378), by Microsoft Research
 - [GLPN](https://arxiv.org/abs/2201.07436), by KAIST (Korea Advanced Institute of Science and Technology) 
 - [DPT](https://arxiv.org/abs/2103.13413), by Intel Labs
+- [YOLOS](https://arxiv.org/abs/2106.00666), by School of EIC, Huazhong University of Science & Technology
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
