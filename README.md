@@ -27,6 +27,8 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [GLPN](https://arxiv.org/abs/2201.07436), by KAIST (Korea Advanced Institute of Science and Technology) 
 - [DPT](https://arxiv.org/abs/2103.13413), by Intel Labs
 - [YOLOS](https://arxiv.org/abs/2106.00666), by School of EIC, Huazhong University of Science & Technology
+- [TAPEX](https://arxiv.org/abs/2107.07653) by Microsoft Research
+- [LayoutLMv3](https://arxiv.org/abs/2204.08387), by Microsoft Research
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
@@ -34,6 +36,7 @@ Besides that, I help others add models to the library, including:
 - [Nyströmformer](https://arxiv.org/abs/2102.03902), by University of Wisconsin-Madison
 - [YOSO](https://arxiv.org/abs/2111.09714), by University of Wisconsin-Madison
 - [PoolFormer](https://arxiv.org/abs/2111.11418), by Sea AI Lab
+- [CvT](), by Microsoft Research
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
