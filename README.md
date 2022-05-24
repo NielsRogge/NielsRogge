@@ -36,7 +36,7 @@ Besides that, I help others add models to the library, including:
 - [Nyströmformer](https://arxiv.org/abs/2102.03902), by University of Wisconsin-Madison
 - [YOSO](https://arxiv.org/abs/2111.09714), by University of Wisconsin-Madison
 - [PoolFormer](https://arxiv.org/abs/2111.11418), by Sea AI Lab
-- [CvT](), by Microsoft Research
+- [CvT](https://arxiv.org/abs/2103.15808), by Microsoft Research
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
