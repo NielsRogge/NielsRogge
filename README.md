@@ -37,6 +37,7 @@ Besides that, I help others add models to the library, including:
 - [YOSO](https://arxiv.org/abs/2111.09714), by University of Wisconsin-Madison
 - [PoolFormer](https://arxiv.org/abs/2111.11418), by Sea AI Lab
 - [CvT](https://arxiv.org/abs/2103.15808), by Microsoft Research
+- [GroupViT](https://arxiv.org/abs/2202.11094), by NVIDIA
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
