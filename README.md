@@ -30,6 +30,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [TAPEX](https://arxiv.org/abs/2107.07653) by Microsoft Research
 - [LayoutLMv3](https://arxiv.org/abs/2204.08387), by Microsoft Research
 - [VideoMAE](https://arxiv.org/abs/2203.12602), by Multimedia Computing Group, Nanjing University
+- [Donut](https://arxiv.org/abs/2111.15664), by NAVER AI Lab
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
