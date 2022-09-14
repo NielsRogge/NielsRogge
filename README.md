@@ -32,6 +32,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [VideoMAE](https://arxiv.org/abs/2203.12602), by Multimedia Computing Group, Nanjing University
 - [Donut](https://arxiv.org/abs/2111.15664), by NAVER AI Lab
 - [X-CLIP](https://arxiv.org/abs/2208.02816), by Microsoft Research
+- [Deformable DETR](https://arxiv.org/abs/2010.04159), by SenseTime Research
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
