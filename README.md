@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niels, I'm 25 years old and I live in Belgium.
+My name is Niels, I'm 26 years old and I live in Belgium.
 
 I'm currently working as an ML engineer @ [🤗  HuggingFace](https://huggingface.co/), where I'm part of the Open-Source team.
 
@@ -33,6 +33,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [Donut](https://arxiv.org/abs/2111.15664), by NAVER AI Lab
 - [X-CLIP](https://arxiv.org/abs/2208.02816), by Microsoft Research
 - [Deformable DETR](https://arxiv.org/abs/2010.04159), by SenseTime Research
+- [MarkupLM](https://arxiv.org/abs/2110.08518), by Microsoft Research
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
