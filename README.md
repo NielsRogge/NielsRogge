@@ -34,6 +34,9 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [X-CLIP](https://arxiv.org/abs/2208.02816), by Microsoft Research
 - [Deformable DETR](https://arxiv.org/abs/2010.04159), by SenseTime Research
 - [MarkupLM](https://arxiv.org/abs/2110.08518), by Microsoft Research
+- [LiLT](https://arxiv.org/abs/2202.13669), South China University of Technology
+- [Table Transformer](https://arxiv.org/abs/2110.00061), by Microsoft Research
+- [CLIPSeg](https://arxiv.org/abs/2112.10003), by University of Göttingen
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
