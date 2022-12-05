@@ -37,6 +37,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [LiLT](https://arxiv.org/abs/2202.13669), South China University of Technology
 - [Table Transformer](https://arxiv.org/abs/2110.00061), by Microsoft Research
 - [CLIPSeg](https://arxiv.org/abs/2112.10003), by University of Göttingen
+- [Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778), by MIT Computer Science and Artificial Intelligence Laboratory, Cambridge
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
