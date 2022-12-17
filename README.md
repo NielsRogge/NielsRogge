@@ -31,7 +31,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [LayoutLMv3](https://huggingface.co/docs/transformers/model_doc/layoutlmv3), by Microsoft Research
 - [VideoMAE](https://huggingface.co/docs/transformers/model_doc/videomae), by Multimedia Computing Group, Nanjing University
 - [Donut](https://huggingface.co/docs/transformers/model_doc/donut), by NAVER AI Lab
-- [X-CLIP](https://huggingface.co/docs/transformers/model_doc/x_clip), by Microsoft Research
+- [X-CLIP](https://huggingface.co/docs/transformers/model_doc/xclip), by Microsoft Research
 - [Deformable DETR](https://huggingface.co/docs/transformers/model_doc/deformable_detr), by SenseTime Research
 - [MarkupLM](https://huggingface.co/docs/transformers/model_doc/markuplm), by Microsoft Research
 - [LiLT](https://huggingface.co/docs/transformers/model_doc/lilt), South China University of Technology
