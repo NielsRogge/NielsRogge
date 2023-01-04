@@ -41,6 +41,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [BiT](https://huggingface.co/docs/transformers/model_doc/bit), by Google AI
 - [ViT Hybrid](https://huggingface.co/docs/transformers/model_doc/vit), by Google AI
 - [Swin2SR](https://huggingface.co/docs/transformers/main/model_doc/swin2sr), by CAIDAS, University of Würzburg
+- [GIT](https://huggingface.co/docs/transformers/main/model_doc/git), by Microsoft Research
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
