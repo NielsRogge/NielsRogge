@@ -43,6 +43,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [Swin2SR](https://huggingface.co/docs/transformers/main/model_doc/swin2sr), by CAIDAS, University of Würzburg
 - [GIT](https://huggingface.co/docs/transformers/main/model_doc/git), by Microsoft Research
 - [UPerNet](https://huggingface.co/docs/transformers/main/model_doc/upernet), by Peking University
+- [BLIP-2](https://huggingface.co/docs/transformers/main/model_doc/blip-2), by Salesforce
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
