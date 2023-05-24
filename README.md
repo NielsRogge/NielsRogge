@@ -44,6 +44,8 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [GIT](https://huggingface.co/docs/transformers/main/model_doc/git), by Microsoft Research
 - [UPerNet](https://huggingface.co/docs/transformers/main/model_doc/upernet), by Peking University
 - [BLIP-2](https://huggingface.co/docs/transformers/main/model_doc/blip-2), by Salesforce
+- [FocalNet](https://huggingface.co/docs/transformers/main/model_doc/focalnet), by Microsoft Research
+- [PerSAM](https://arxiv.org/abs/2305.03048), by Shanghai Artificial Intelligence Laboratory
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
