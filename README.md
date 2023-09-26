@@ -46,9 +46,9 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [BLIP-2](https://huggingface.co/docs/transformers/main/model_doc/blip-2), by Salesforce
 - [FocalNet](https://huggingface.co/docs/transformers/main/model_doc/focalnet), by Microsoft Research
 - [PerSAM](https://arxiv.org/abs/2305.03048), by Shanghai Artificial Intelligence Laboratory
-- [DINOv2]((https://huggingface.co/docs/transformers/main/model_doc/dinov2), by Meta AI
-- [ViTMatte]((https://huggingface.co/docs/transformers/main/model_doc/vitmatte), by HustVL
-- [Nougat]((https://huggingface.co/docs/transformers/main/model_doc/nougat), by Meta AI
+- [DINOv2](https://huggingface.co/docs/transformers/main/model_doc/dinov2), by Meta AI
+- [ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte), by HustVL
+- [Nougat](https://huggingface.co/docs/transformers/main/model_doc/nougat), by Meta AI
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
