@@ -49,6 +49,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [DINOv2](https://huggingface.co/docs/transformers/main/model_doc/dinov2), by Meta AI
 - [ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte), by HustVL
 - [Nougat](https://huggingface.co/docs/transformers/main/model_doc/nougat), by Meta AI
+- [OWLv2](https://huggingface.co/docs/transformers/main/model_doc/owlv2), by Google AI
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
