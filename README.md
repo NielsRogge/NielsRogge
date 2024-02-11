@@ -52,6 +52,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [OWLv2](https://huggingface.co/docs/transformers/main/model_doc/owlv2), by Google AI
 - [SigLIP](https://huggingface.co/docs/transformers/main/model_doc/siglip), by Google AI
 - [SlimSAM](https://huggingface.co/Zigeng), by National University of Singapore
+- [Depth Anything](https://huggingface.co/docs/transformers/main/model_doc/depth_anything), by The University of Hong Kong/TikTok
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
