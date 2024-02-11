@@ -44,6 +44,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [GIT](https://huggingface.co/docs/transformers/main/model_doc/git), by Microsoft Research
 - [UPerNet](https://huggingface.co/docs/transformers/main/model_doc/upernet), by Peking University
 - [BLIP-2](https://huggingface.co/docs/transformers/main/model_doc/blip-2), by Salesforce
+- [InstructBLIP](https://huggingface.co/docs/transformers/en/model_doc/instructblip), by Salesforce
 - [FocalNet](https://huggingface.co/docs/transformers/main/model_doc/focalnet), by Microsoft Research
 - [PerSAM](https://arxiv.org/abs/2305.03048), by Shanghai Artificial Intelligence Laboratory
 - [DINOv2](https://huggingface.co/docs/transformers/main/model_doc/dinov2), by Meta AI
