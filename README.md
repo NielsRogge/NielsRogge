@@ -57,7 +57,6 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [UDOP](https://huggingface.co/docs/transformers/main/model_doc/udop), by Microsoft Research
 - [ZoeDepth](https://huggingface.co/docs/transformers/main/model_doc/zoedepth), by Intel Research
 - [DINOv2 with Registers](https://huggingface.co/docs/transformers/main/model_doc/dinov2_with_registers), by Meta
-- [TextNet](https://huggingface.co/docs/transformers/main/model_doc/textnet), by Nanjing University
 - [ViTPose](https://huggingface.co/docs/transformers/main/model_doc/vitpose), by University of Sydney
 
 Besides that, I help others add models to the library, including:
@@ -68,6 +67,8 @@ Besides that, I help others add models to the library, including:
 - [PoolFormer](https://arxiv.org/abs/2111.11418), by Sea AI Lab
 - [CvT](https://arxiv.org/abs/2103.15808), by Microsoft Research
 - [GroupViT](https://arxiv.org/abs/2202.11094), by NVIDIA
+- [TextNet](https://huggingface.co/docs/transformers/main/model_doc/textnet), by Nanjing University
+- [Grounding DINO](https://huggingface.co/docs/transformers/main/model_doc/grounding-dino), by Tsinghua University
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
