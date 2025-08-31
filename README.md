@@ -58,6 +58,7 @@ I love making AI more accessible to anyone. So far, I've contributed the followi
 - [ZoeDepth](https://huggingface.co/docs/transformers/main/model_doc/zoedepth), by Intel Research
 - [DINOv2 with Registers](https://huggingface.co/docs/transformers/main/model_doc/dinov2_with_registers), by Meta
 - [ViTPose](https://huggingface.co/docs/transformers/main/model_doc/vitpose), by University of Sydney
+- [MetaCLIP 2](https://huggingface.co/docs/transformers/main/model_doc/metaclip_2), by Meta AI
 
 Besides that, I help others add models to the library, including:
 - [Swin Transformer](https://arxiv.org/abs/2103.14030), by Microsoft Research
