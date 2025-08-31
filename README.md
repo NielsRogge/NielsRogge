@@ -70,6 +70,7 @@ Besides that, I help others add models to the library, including:
 - [GroupViT](https://arxiv.org/abs/2202.11094), by NVIDIA
 - [TextNet](https://huggingface.co/docs/transformers/main/model_doc/textnet), by Nanjing University
 - [Grounding DINO](https://huggingface.co/docs/transformers/main/model_doc/grounding-dino), by Tsinghua University
+- [KOSMOS 2.5](https://huggingface.co/docs/transformers/main/model_doc/kosmos2_5), by Microsoft Research
 
 I'm mostly working with PyTorch. For IDEs, I work with Visual Studio Code and Google Colab. It's all you need.
 
